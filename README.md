@@ -4,6 +4,7 @@
 [![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-Layer5io-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:layer5io+author:tanav29+is:pr+is:merged&type=pullrequests)
 [![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-Meshery-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:meshery+author:tanav29+is:pr+is:merged&type=pullrequests)
 [![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-MesheryExtension-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:meshery-extensions+author:tanav29+is:pr+is:merged&type=pullrequests)
+[![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-freecodecamp-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:freeCodeCamp+author:tanav29+is:pr+is:merged&type=pullrequests)
 [![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-ravixstudio-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:ravixstudio+author:tanav29+is:pr+is:merged&type=pullrequests)
 
 <!--
