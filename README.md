@@ -1,7 +1,3 @@
-### Open Source Contributions
-
-[![Contributor](https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:tanav29+is:pr+is:merged&type=pullrequests)
-
 [![Contributor](https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:tanav29+is:pr+is:merged&type=pullrequests)
 [![Contributor](https://img.shields.io/badge/3%20PRs%20MERGED-Layer5io-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:layer5io+author:tanav29+is:pr+is:merged&type=pullrequests)
 [![Contributor](https://img.shields.io/badge/1%20PRs%20MERGED-DodoPayements-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:dodopayments+author:tanav29+is:pr+is:merged&type=pullrequests)
